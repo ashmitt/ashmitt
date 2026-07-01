@@ -17,10 +17,10 @@
   <a href="https://github.com/ashmitt">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashmitt&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="ashmitt's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=ashmitt&theme=radical&hide_border=true&cache_seconds=86400" alt="ashmitt's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ashmitt&theme=radical&hide_border=true&cache_seconds=00" alt="ashmitt's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ashmitt&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="ASHMIT RAI's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=ashmitt&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=00" alt="ASHMIT RAI's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ashmitt&theme=radical&radius=10" alt="ashmitt's Activity Graph" />
